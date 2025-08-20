@@ -19,8 +19,8 @@ This project contains a privacy-aware, Dockerized ETL (Extract, Transform, Load)
 ### ♻️ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/iampruh887/cli-etl-agent.git
-cd cli-etl-agent
+git clone https://github.com/akshayparanjape/DataSilosIntegration.git
+cd DataSilosIntegration
 ```
 
 ---
@@ -30,7 +30,7 @@ cd cli-etl-agent
 Place your CSV files in the following directory:
 
 ```bash
-cli-etl-agent/deploy/data/
+DataSilosIntegration/deploy/data/
 ```
 
 Example:
@@ -104,7 +104,7 @@ deploy/output/
 ## 📁 Folder Structure
 
 ```bash
-cli_autoetl_agent/
+DataSilosIntegration/
 ├── improved_etl.py          # Main ETL logic
 ├── Dockerfile               # Container build file
 ├── requirements.txt         # Python dependencies
