@@ -101,8 +101,7 @@ This is the first basic version (working). The following improvements are still 
 
 ---
 
-## License
-This project is experimental and provided as-is for educational use.
+Built with 🍺 by [iampruh887](https://github.com/iampruh887)
 
 ```
 
