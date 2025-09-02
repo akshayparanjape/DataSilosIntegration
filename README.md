@@ -101,7 +101,6 @@ This is the first basic version (working). The following improvements are still 
 
 ---
 
-Built with 🍺 by [iampruh887](https://github.com/iampruh887)
-
 ```
+Built with 🍺 by [iampruh887](https://github.com/iampruh887)
 
